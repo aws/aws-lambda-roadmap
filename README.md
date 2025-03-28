@@ -1,17 +1,62 @@
-## My Project
+## AWS Lambda Roadmap
 
-TODO: Fill this README out!
+This is the public roadmap for AWS Lambda.
 
-Be sure to:
+## Introduction
+This is the public roadmap for AWS Lambda.
+Knowing about our upcoming products and priorities helps our customers plan. This repository contains information about what we are working on and allows all AWS customers to give direct feedback.
 
-* Change the title in this README
-* Edit your repository description on GitHub
+[See the roadmap »](https://github.com/orgs/aws/projects/286)
 
-## Security
+**Other AWS Public Roadmaps**
+* [AWS Containers](https://github.com/aws/containers-roadmap)
+* [AWS App Mesh](https://github.com/aws/aws-app-mesh-roadmap)
+* [AWS Proton](https://github.com/aws/aws-proton-public-roadmap)
+* [CloudFormation coverage](https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap)
+* [AWS Elastic Beanstalk](https://github.com/aws/elastic-beanstalk-roadmap)
+* [Amazon EC2 Spot Instances integrations](https://github.com/aws/ec2-spot-instances-integrations-roadmap)
+* [AWS Controllers for Kubernetes (ACK)](https://github.com/aws-controllers-k8s/community/projects/1)
+* [AWS CDK](https://github.com/orgs/aws/projects/7)
+* [AWS App Runner](https://github.com/aws/apprunner-roadmap/projects/1)
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+## Security disclosures
+
+If you think you’ve found a potential security issue, please do not post it in the Issues.  Instead, please follow the instructions [here](https://aws.amazon.com/security/vulnerability-reporting/) or [email AWS security directly](mailto:aws-security@amazon.com).
+
+
+## FAQs
+**Q: Why did you build this?**
+
+A: We know that our customers are making decisions and plans based on what we are developing, and we want to provide our customers the insights they need to plan.
+
+**Q: Why are there no dates on your roadmap?**
+
+A: Because job zero is security and operational stability, we can't provide specific target dates for features. The roadmap is subject to change at any time, and roadmap issues in this repository do not guarantee a feature will be launched as proposed.
+
+**Q: What do the roadmap categories mean?**
+* *Just shipped* - obvious, right?
+* *Coming soon* - coming up.  Think a couple of months out, give or take.
+* *We're working on it* - in progress, but further out.  We might still be working through the implementation details, or scoping stuff out.
+* *Researching* - We're thinking about it. This might mean we're still designing, or thinking through how this might work. This is a great phase to send how you want to see something implemented!  We'd love to see your usecase or design ideas here.
+
+**Q: Is everything on the roadmap?**
+
+A: The majority of our development work for AWS Lambda and other AWS-sponsored OSS projects are included on this roadmap. Of course, there will be technologies we are very excited about that we are going to launch without notice to surprise and delight our customers.
+
+**Q: How can I provide feedback or ask for more information?**
+
+A: Please open an issue!
+
+**Q: How can I request a feature be added to the roadmap?**
+
+A: Please open an issue!  You can read about how to contribute [here](/CONTRIBUTING.md). Community submitted issues will be tagged "Proposed" and will be reviewed by the team.
+
+**Q: Will you accept a pull request?**
+
+A: We haven't worked out how pull requests should work for a public roadmap page, but we will take all PRs very seriously and review for inclusion. Read about [contributing](/CONTRIBUTING.md).
 
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+This library is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
+To learn more about the services, head here: http://aws.amazon.com/lambda
