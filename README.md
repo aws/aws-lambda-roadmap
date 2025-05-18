@@ -1,6 +1,6 @@
 ## AWS Lambda Roadmap
 
-This is the public roadmap for AWS Lambda.
+This is the public roadmap for [AWS Lambda](http://aws.amazon.com/lambda).
 
 ## Introduction
 This is the public roadmap for AWS Lambda.
@@ -10,7 +10,6 @@ Knowing about our upcoming products and priorities helps our customers plan. Thi
 
 **Other AWS Public Roadmaps**
 * [AWS Containers](https://github.com/aws/containers-roadmap)
-* [AWS App Mesh](https://github.com/aws/aws-app-mesh-roadmap)
 * [AWS Proton](https://github.com/aws/aws-proton-public-roadmap)
 * [CloudFormation coverage](https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap)
 * [AWS Elastic Beanstalk](https://github.com/aws/elastic-beanstalk-roadmap)
@@ -55,8 +54,9 @@ A: Please open an issue!  You can read about how to contribute [here](/CONTRIBUT
 
 A: We haven't worked out how pull requests should work for a public roadmap page, but we will take all PRs very seriously and review for inclusion. Read about [contributing](/CONTRIBUTING.md).
 
-## License
+## License Summary
 
-This library is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
 
-To learn more about the services, head here: http://aws.amazon.com/lambda
+The sample code within this documentation is made available under the MIT-0 license. See the LICENSE-SAMPLECODE file.
+
