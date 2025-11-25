@@ -9,14 +9,15 @@ Knowing about our upcoming products and priorities helps our customers plan. Thi
 [See the roadmap »](https://github.com/orgs/aws/projects/286)
 
 **Other AWS Public Roadmaps**
-* [AWS Containers](https://github.com/aws/containers-roadmap)
-* [AWS Proton](https://github.com/aws/aws-proton-public-roadmap)
-* [CloudFormation coverage](https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap)
+* [AWS container services (ECS, ECR, Fargate, and EKS)](https://github.com/aws/containers-roadmap)
+* [AWS Cloud Development Kit (AWS CDK)](https://github.com/aws/aws-cdk/blob/main/ROADMAP.md)
+* [AWS Serverless Application Model (AWS SAM)](https://github.com/aws/aws-sam-cli/wiki/AWS-SAM-CLI-Roadmap)
+* [AWS CloudFormation coverage](https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap)
+* [AWS App Runner](https://github.com/aws/apprunner-roadmap/projects/1)
 * [AWS Elastic Beanstalk](https://github.com/aws/elastic-beanstalk-roadmap)
 * [Amazon EC2 Spot Instances integrations](https://github.com/aws/ec2-spot-instances-integrations-roadmap)
 * [AWS Controllers for Kubernetes (ACK)](https://github.com/aws-controllers-k8s/community/projects/1)
-* [AWS CDK](https://github.com/orgs/aws/projects/7)
-* [AWS App Runner](https://github.com/aws/apprunner-roadmap/projects/1)
+* [AWS Proton](https://github.com/aws/aws-proton-public-roadmap)
 
 ## Security disclosures
 
