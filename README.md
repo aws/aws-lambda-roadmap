@@ -17,7 +17,6 @@ Knowing about our upcoming products and priorities helps our customers plan. Thi
 * [AWS Elastic Beanstalk](https://github.com/aws/elastic-beanstalk-roadmap)
 * [Amazon EC2 Spot Instances integrations](https://github.com/aws/ec2-spot-instances-integrations-roadmap)
 * [AWS Controllers for Kubernetes (ACK)](https://github.com/aws-controllers-k8s/community/projects/1)
-* [AWS Proton](https://github.com/aws/aws-proton-public-roadmap)
 
 ## Security disclosures
 
